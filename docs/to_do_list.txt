@@ -1,5 +1,35 @@
 
 
+
+install games from various sources
+verify the games from various sources
+install mods from workshop for steam games
+is a cli tool, with atleast a tui, maybe an actual tui and/or gui
+it can install dependencies
+it can automatically trigger closing, starting, etc.... of servers
+it has a web exposed admin panel, maybe gui, maybe tui with something like textual_serve
+it has logging
+it has localization
+config based
+port monitering
+can set process priority
+can set process cores
+can monitor ongoing processes
+can optionally redirect std out, err, etc... to none, normal text, colored text
+discord bot compatible
+hook system
+settings having in variable placement options
+periodic backups
+Monitor server status (CPU, RAM, disk usage)
+Backup and restore server data
+Install and update game servers automatically
+Support for headless (CLI) and GUI-based management
+IP whitelisting and blacklisting
+Auto-recovery from crashes
+ssh access
+Webhooks for custom event triggers
+
+
 To Do:
     install dependencies for a specific game
     install dependencies for all games on a specific client/project
